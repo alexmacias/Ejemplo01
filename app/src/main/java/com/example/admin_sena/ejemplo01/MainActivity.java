@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     private EditText txtNombre;
     private Button btnAceptar;
+    private Button btnAcepta;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
